@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3a3c3d0-a185-49be-be54-67c2c2f20934" name="Default Changelist" comment="" />
+    <list default="true" id="c3a3c3d0-a185-49be-be54-67c2c2f20934" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/partners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant.html" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="20X59rq34vgPPyJWqNQ0GFi0dKk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +39,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\batish\FoodDeliveryService" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -37,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636177943321</updated>
-      <workItem from="1636177945009" duration="5644000" />
+      <workItem from="1636177945009" duration="6504000" />
+      <workItem from="1636273774177" duration="2048000" />
     </task>
     <servers />
   </component>
@@ -45,6 +63,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1636273861145">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1636273861145" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1636189873187">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
